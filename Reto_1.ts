@@ -14,16 +14,6 @@ function findFirstRepeated(giftIds:number[]):number{
 
 
 
-
-
-
-
-
-
-
-
-
-
 const giftIds :number[] = [2, 1, 3, 5, 3, 2]
 const firstRepeatedId : number = findFirstRepeated(giftIds)
 console.log(firstRepeatedId) // 3
